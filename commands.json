@@ -10,6 +10,12 @@
     "clear D7",
     "clear D6",
     "clear E6",
-    "clear H6"
+    "clear H6",
+    "flag D5",
+    "flag C6",
+    "clear H5",
+    "clear G5",
+    "clear F5",
+    "clear E5"
   ]
 }
